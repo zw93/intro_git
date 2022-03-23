@@ -2,5 +2,6 @@ Gitの練習をしていきます。
 基本的なワークフローを学びます。
 .git add
 .git commit
-git rm
+.git rm
 .git status
+.git diff
